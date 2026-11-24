@@ -1,0 +1,19 @@
+{
+  "name": "ourmocks-brag",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts OurMocks ../brag.mp4",
+    "audio": "node audio/build-audio.mjs ../work/vo"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.540",
+    "@remotion/google-fonts": "^4.0.540",
+    "@types/react": "^18.3.31",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.540",
+    "typescript": "^7.0.2"
+  },
+  "type": "module"
+}

@@ -1,0 +1,72 @@
+[
+ {
+  "id": "bhu",
+  "file": "video/public/campus/bhu.jpg",
+  "title": "File:Banaras Hindu University, Varanasi.jpg",
+  "author": "Sundrampixel",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Banaras_Hindu_University,_Varanasi.jpg",
+  "description": "Gate of Banaras Hindu University, Varanasi"
+ },
+ {
+  "id": "jnu",
+  "file": "video/public/campus/jnu.jpg",
+  "title": "File:JNU campus (24729).jpg",
+  "author": "The social view",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:JNU_campus_(24729).jpg",
+  "description": "pic clicked at Jawaharlal Nehru University, New Delhi"
+ },
+ {
+  "id": "iiser-pune",
+  "file": "video/public/campus/iiser-pune.jpg",
+  "title": "File:Front view of main building, IISER Pune.jpg",
+  "author": "DesiBoy101",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Front_view_of_main_building,_IISER_Pune.jpg",
+  "description": "Front view of main building, IISER Pune"
+ },
+ {
+  "id": "iiser-mohali",
+  "file": "video/public/campus/iiser-mohali.jpg",
+  "title": "File:IISER Mohali in Spring 2014.JPG",
+  "author": "Frederickarcher",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:IISER_Mohali_in_Spring_2014.JPG",
+  "description": "IISER Mohali in spring"
+ },
+ {
+  "id": "niser",
+  "file": "video/public/campus/niser.jpg",
+  "title": "File:NISER CAMPUS at Night.jpg",
+  "author": "Amiwins",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:NISER_CAMPUS_at_Night.jpg",
+  "description": "NISER Campus, Jatni, Khorda"
+ },
+ {
+  "id": "rvce",
+  "file": "video/public/campus/rvce.jpg",
+  "title": "File:RV College Admin block.JPG",
+  "author": "Rvian00",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:RV_College_Admin_block.JPG",
+  "description": "Photo of Rashtreeya Vidyalaya College of Engineering administration block."
+ },
+ {
+  "id": "msrit",
+  "file": "video/public/campus/msrit.jpg",
+  "title": "File:MSRIT from front gate.jpg",
+  "author": "Sohaneindia",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:MSRIT_from_front_gate.jpg",
+  "description": "MSRIT is an engineering college in Bangalore, India. This is a view from the front gate"
+ }
+]
